@@ -1,0 +1,54 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>Untitled Document</title>
+<!-- TemplateEndEditable -->
+<!-- TemplateBeginEditable name="head" -->
+<!-- TemplateEndEditable -->
+<style type="text/css">
+body {
+	background-color: #0F0;
+	font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+	font-size: 24px;
+	color: #F00;
+}
+</style>
+</head>
+
+<body>
+TIPOS DE VIDEO JUEGO
+<div>
+  <p>Como ya se mencionó, existen muchos géneros de videojuegos diferentes, razón por la que <strong>nos centraremos en los más importantes</strong>. Resulta útil conocerlos si se visitan eventos como <a href="https://www.ifema.es/japan-weekend-madrid" target="_blank">Japan Weekend Madrid</a>, ya que ayudan a entender mejor la esencia de cada juego.</p>
+  <p>Cabe destacar que estos tipos no son exclusivos de una sola plataforma, por lo que no importa si se juega en <a href="https://www.ifema.es/noticias/videojuegos/consola-o-pc" target="_blank">consola o PC</a>, en ambos dispositivos será posible encontrar videojuegos de los tipos mencionados.</p>
+  <h3><strong>Acción</strong></h3>
+  <p>Se trata de un género caracterizado por el frenetismo y una gran inmersión. Implican realizar alguna acción repetitiva como pulsar mucho ciertas combinaciones de botones para realizar un movimiento. Debido a esto, suelen exigir una alta concentración.</p>
+  <p>En el corto plazo pueden llegar a ser bastante adictivos. Sin embargo, a largo plazo se vuelven algo repetitivos, pues sus dinámicas de juego no se caracterizan por variar demasiado. En algunos casos son muy difíciles, por lo que pueden enfadar a los jugadores menos pacientes.</p>
+  <h3><strong>Aventura</strong></h3>
+  <p>Este es uno de los tipos de videojuegos más importante ya que los peligros y las grandes hazañas están presentes en cada esquina. El protagonista del juego debe atravesar extensos niveles repletos de muchos enemigos y valerse de <strong>diferentes ítems para lograr sus objetivos</strong>. Suelen tener un buen argumento y una duración moderada.</p>
+  <p>Algunos incluso cuentan con diferentes finales y obligan a los jugadores a tomar decisiones morales para definir el final que obtendrán. Esto mejora la inmersión y da pie a la posibilidad de jugar varias veces el juego para desbloquear todos los finales.</p>
+  <h3><strong>Arcade</strong></h3>
+  <p>Se trata de juegos sencillos que manejan elementos de poca complejidad como una aventura, laberintos o plataformas. Es necesario atravesar diferentes pantallas para avanzar. Su ritmo facilita adaptarse rápido al juego por primera vez.</p>
+  <p>No suelen ser demasiado largos. Sin embargo, están diseñados para contar con una amplia rejugabilidad.</p>
+</div>
+<div>
+  <h3><strong>Deportes</strong></h3>
+  <p>Tal y como indica su nombre, se trata de juegos basados en deportes reales como fútbol, boxeo, golf, tenis o baloncesto, entre otros. <strong>Suelen exigir</strong> <strong>habilidad y precisión</strong>.</p>
+  <p>Al exigir habilidad, se puede mejorar en ellos a través de la práctica. En la mayoría de los casos no están respaldados por un buen argumento o historia detrás, pues lo esencial es simular un deporte. También es frecuente que cuenten con importante componente multijugador, lo que los hace ideales para jugar con amigos de forma local o en línea.</p>
+  <h3><strong>Estrategia</strong></h3>
+  <p>Estos juegos suelen manejar conceptos bélicos y de rol. Están diseñados para que el objetivo sea vencer al enemigo mediante una estrategia. <strong>Implican</strong> <strong>concentración e inteligencia.</strong></p>
+  <p>No a todos los jugadores les agradan, ya que la mayoría manejan una curva de aprendizaje y no siempre son intuitivos, por lo que puede ser necesario atravesar por un tutorial para aprender a jugarlos.</p>
+  <p>Sin embargo, una vez que se aprende, pueden ser bastante divertidos y retadores. Al ser de naturaleza compleja, es ideal para jugarlo de manera competitiva. Además, en la mayoría de los casos <strong>no se trata de juegos fáciles de dominar</strong>.</p>
+  <p>Una de sus grandes ventajas es que suelen ser bastante divertidos incluso a largo plazo, ya que algunos son tan intrincados que las dinámicas <strong>siempre ofrecen nuevas formas de superación y retos</strong>, lo que mantiene a estos juegos frescos por mucho más tiempo en comparación con otros tipos.</p>
+  <h3><strong>Simulación</strong></h3>
+  <p>En este género <strong>se pueden encontrar videojuegos muy variados</strong>, pues se basan en simular algún elemento de la vida real como la conducción de un coche, un avión, un tren, el trabajo de un cirujano o incluso la vida de un animal.</p>
+  <p>A muchos jugadores les resulta interesante que permitan simular situaciones reales <strong>sin los inconvenientes que implican en la realidad</strong>.</p>
+  <p>Algunos involucran muchas horas de juego debido a su complejidad, aunque otros son mucho más sencillos e intuitivos. En algunos casos son fantasiosos, pero en otros se esfuerzan por ofrecer una experiencia realista.</p>
+  <h3><strong>Juegos de mesa</strong></h3>
+  <p>Se trata de los clásicos juegos de mesa de toda la vida, pero en una versión digital que se puede jugar en una consola o PC. Pese a contener el componente socializador que caracteriza a todo juego de mesa, ofrecen la ventaja de poder jugar contra la máquina gracias a la inteligencia artificial, lo que los hace ideales para quienes quieren jugar pero no tienen con quién.</p>
+  <h3><strong>Juegos musicales</strong></h3>
+  <p>Se trata de juegos que involucran la interacción con alguna melodía. En algunos casos involucran periféricos especiales que imitan instrumentos musicales o alfombras para bailar pisando botones.</p>
+</div>
+</body>
+</html>

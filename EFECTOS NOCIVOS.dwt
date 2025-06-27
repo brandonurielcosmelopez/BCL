@@ -1,0 +1,51 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>Documento sin título</title>
+<!-- TemplateEndEditable -->
+<style type="text/css">
+.juegos {
+	color: #333;
+	text-align: justify;
+	font-family: "Arial Black", Gadget, sans-serif;
+	font-size: 18px;
+}
+.juegos p a {
+	text-align: center;
+}
+body,td,th {
+	color: #000;
+}
+body {
+	background-color: #0F0;
+	margin-left: 4px;
+	margin-top: 2px;
+}
+.JUEGOS {
+	font-family: "Comic Sans MS", cursive;
+	font-size: 24px;
+}
+</style>
+<!-- TemplateBeginEditable name="head" -->
+<!-- TemplateEndEditable -->
+<!-- TemplateParam name="OptionalRegion1" type="boolean" value="true" -->
+</head>
+
+<body class="juegos">
+<p align="center"><strong class="JUEGOS">Efectos nocivos : </strong></p>
+<p align="center">Los videojuegos pueden tener efectos nocivos sobre la salud. Se han comprobado ciertos efectos perjudiciales sobre la salud de los niños derivados simplemente de su uso. En un porcentaje reducido (según algunos autores un 1%), desencadenan crisis convulsivas en niños con antecedentes de epilepsia. La causa de estas crisis se debería a los destellos y cambios en la intensidad de los colores.</p>
+<p align="center">Estos cambios producidos de forma repetida producirían estímulos cerebrales que a su vez desencadenarían esas crisis. Además de estos efectos que aparecen en una población predispuesta, me centraré en las consecuencias perjudiciales derivadas del contenido y del empleo abusivo que pueden afectar a todos los niños o adolescentes.</p>
+<p align="center"><strong>Problemas debidos al uso incontrolado de los videojuegos</strong></p>
+<p align="center">Por un lado, están ampliamente descritos en la literatura los efectos perniciosos derivados del uso excesivo. El empleo incontrolado de estos juegos puede suponer un desorden grave en la vida de los niños y adolescentes. El jugador obsesivo, ha perdido el control sobre el juego. Es el propio juego el que marca hasta donde puede llegar. Habitualmente, se llega a esta situación de forma progresiva. Al principio el empleo de los videojuegos se hace de forma esporádica, a continuación la frecuencia aumenta hasta hacerse prácticamente diaria. En este momento la situación es de alto riesgo, advirtiéndose repercusiones sobre otros aspectos de la vida ordinaria.</p>
+<div align="center"><!-- TemplateBeginIf cond="OptionalRegion1" -->
+  <p>Si la adicción a los videojuegos va a más, el jugador puede acabar convirtiéndose según algunos autores en un verdadero ludópata. La vida del jugador gira en torno al videojuego, centrando en él todo el pensamiento y recurriendo incluso a mentiras o artimañas para seguir jugando. En este punto, se antepone el uso del videojuego a otras actividades como el deporte, la lectura o el contacto con los amigos. Se produce incluso una ruptura con la vida social, llevando a un aislamiento de consecuencias nefastas (potenciación del individualismo). En los casos más graves, la práctica excesiva de estos juegos lleva al niño a una huida del mundo real encerrándose en otro virtual.</p>
+  <p>La atención puesta en el juego desarrolla un agotamiento y un cansancio del sistema nervioso con aparición de síntomas de depresión o ansiedad. Se produce en esos casos un deterioro en el rendimiento académico significativo apreciándose defectos en la capacidad de atención y un desinterés llamativo por las actividades escolares. Por último, estos niños pierden el control sobre sí mismos lo cual da lugar incluso a la aparición de síntomas de abstinencia cuando no pueden practicarlos o se les priva de su uso, unido a un comportamiento impulsivo y violento.</p>
+  <p>El uso excesivo de los videojuegos se ha relacionado también con un mayor riesgo de desarrollar un sedentarismo nocivo para la salud del niño o adolescente. Este sedentarismo ayudado por el consumo de alimentos perjudiciales (chucherías) desencadenan la aparición de sobrepeso y obesidad.</p>
+  <p>Otras consecuencias relacionadas con el uso continuo y prolongado de los videojuegos son la aparición de molestias en los ojos con síntomas de irritación al no realizarse los movimientos de parpadeo que lubrifican la córnea, debido a la atención que se presta al juego. Los dolores de cabeza pueden llegar a ser frecuentes principalmente cuando los niños no tienen corregidos defectos en la agudeza visual. También, debido a las posturas que se adoptan durante el juego, pueden aparecer dolores musculares o vicios posturales, muy perjudiciales en un organismo en crecimiento. Se ha observado con frecuencia la aparición de molestias en la mano y muñeca por el desarrollo de tendinitis o inflamación en los tendones.</p>
+  <!-- TemplateEndIf -->
+</div>
+<p align="center"><img src="../imagenes/descarga (3).jfif" width="654" height="226" /></p>
+</body>
+</html>
